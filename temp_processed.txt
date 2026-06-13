@@ -1,0 +1,5 @@
+1,50000,kaos oblong
+2,150000,jaket kulit
+3,120000,sepatu sneakers
+4,80000,topi baseball
+5,250000,tas ransel
